@@ -1,6 +1,6 @@
 
 greeting = "Good Morning"
-a = 100
+a = 1000
 
 if a > 2:
     print(" Condition matches")
