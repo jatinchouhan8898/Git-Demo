@@ -1,10 +1,6 @@
 
 greeting = "Good Morning"
-<<<<<<< HEAD
-a = 28
-=======
-a = 9
->>>>>>> cbb4cb940b144746f33994dc42750955a726ffb4
+a = 10
 
 if a > 2:
     print(" Condition matches")
