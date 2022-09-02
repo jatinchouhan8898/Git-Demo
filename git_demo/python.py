@@ -4,7 +4,7 @@ a = 1000
 
 if a > 2:
     print(" Condition matches")
-    print("second line")
+  
 else:
     print("condition do not match")
 
